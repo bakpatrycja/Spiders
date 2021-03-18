@@ -1,15 +1,10 @@
-### Scripts
+
 ### This project will not run without db file and .env
 #### Technical stack
 NodeJs, Express.js, Chai, Mocha, Docker, JWT Token 
 
-<<<<<<< HEAD
-#### `npm run start:dev` 
-=======
-### This project will not run without db file and .env
-
+### Scripts
 #### `npm run start:dev` // to
->>>>>>> 56235a78378916a41b8de887305c3fd898a38ddb
 
 Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
 
