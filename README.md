@@ -1,5 +1,7 @@
 ### Scripts
 
+### This project will not run without db file and .env
+
 #### `npm run start:dev` // to
 
 Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
