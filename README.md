@@ -1,6 +1,9 @@
 ### Scripts
+### This project will not run without db file and .env
+#### Technical stack
+NodeJs, Express.js, Chai, Mocha, Docker, JWT Token 
 
-#### `npm run start:dev` // to
+#### `npm run start:dev` 
 
 Starts the application in development using `nodemon` and `ts-node` to do hot reloading.
 
@@ -19,6 +22,8 @@ Starts the app in production by first building the project with `npm run build`,
 - docker build -t spiders/landing-page-api .
 - docker run -p 49160:8080 spiders/landing-page-api
 
-#### Dev MYSQL + phpMyAdmin Containers // potem to
+#### Dev MYSQL + phpMyAdmin Containers 
 
 - docker-compose up --build
+
+
