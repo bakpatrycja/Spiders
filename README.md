@@ -1,7 +1,7 @@
 
 ### This project will not run without db file and .env
 #### Technical stack
-NodeJs, Express.js, Chai, Mocha, Docker, JWT Token 
+NodeJs, Express.js, Chai, Mocha, Docker, JWT Token, Sequelize, MongoDB, Mongoose 
 
 ### Scripts
 #### `npm run start:dev` // to
